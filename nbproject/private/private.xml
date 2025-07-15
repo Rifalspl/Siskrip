@@ -3,40 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FormPenilaianSkripsiDosen.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/DashboardAdmin.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/DosenJadwal.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FormUmpanBalikDosen.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FormLoginMahasiswa.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FormDashboardMahasiswa.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FormKelolaKonten.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FormRegistrasiMahasiswa.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FormRegistrasiAdmin.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/ReviewDokumenSkripsi.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FormLoginAdmin.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FormPilihTopik.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FormKelolaPengguna.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FormDiskusiMahasiswa.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/UploadDokumen.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FormRegisterDosen.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FormPengaturanAplikasi.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/DasboardDosen.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FormLaporanAktivitas.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/LihatUmpanBalik.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/DashboardMahasiswa.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/ProgresSkripsiMahasiswa.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FormDiskusiDosen.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/Siskrip.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FormPenjadwalanBimbingan.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/HasilRevisiSkripsiDosen.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FromLoginDosen.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/JadwalBimbinganDosen.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FormMelihatProgresSkripsi.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/formTopikDosen.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FormNotifikasiOtomatis.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/Koneksi.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FormKelolaPengaduan.java</file>
-            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/siskrip/src/siskrip/FormBantuanDukungan.java</file>
+            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/KoneksiDB/src/koneksidb/koneksi.java</file>
+            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/KoneksiDB/src/koneksidb/FormTopikSkripsi.java</file>
+            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/KoneksiDB/src/koneksidb/FormJadwalBimbingan.java</file>
+            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/KoneksiDB/src/koneksidb/FormUploadSkripsi.java</file>
+            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/KoneksiDB/src/koneksidb/FormLihatUmpan.java</file>
+            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/KoneksiDB/src/koneksidb/DashboardMahasiswa.java</file>
+            <file>file:/C:/PKV%20Muh%20Rifal%20Tawakkal/koneksi/KoneksiDB/src/koneksidb/KoneksiDB.java</file>
         </group>
     </open-files>
 </project-private>
